@@ -1,3 +1,5 @@
+Решение задачи [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data)
+
 Перед запуском необходимо скачать и разархивировать файлы `train.csv`, `test.csv` и `store.csv` из [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/data) 
 и положить их в папку с исполняемым Jupyter Notebook файлом.
 
