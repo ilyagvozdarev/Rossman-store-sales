@@ -69,6 +69,7 @@
 <details><summary>Сезонные графики</summary>
 <br>  
 (сезоны - неделя, месяц, год)
+<br>
 <p align="center">
 <img src="./img/readme/seasonalplot.jpg" />
 </p>
