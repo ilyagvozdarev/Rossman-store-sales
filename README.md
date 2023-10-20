@@ -76,8 +76,15 @@
 ### Сезонные графики 
 (сезоны - неделя, месяц, год)
 
+<p align="center">
+<img src="./img/readme/seasonalplot.jpg" />
+</p>
 
 
+
+
+<br>
+<br>
 
 LinearRegression
 <br/>
