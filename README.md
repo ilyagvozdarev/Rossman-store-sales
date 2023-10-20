@@ -66,7 +66,7 @@
 
 
 ## Анализ временных рядов
-- <details><summary>Сезонные графики</summary>
+<details><summary>Сезонные графики</summary>
 <br>  
 (сезоны - неделя, месяц, год)
 <p align="center">
