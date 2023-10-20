@@ -47,6 +47,15 @@
   для этого магазина.
   <br><br>
 
+`train.csv`:
+<p align="center">
+<img src="./img/readme/train.jpg" />
+</p>
+
+`store.csv`:
+<p align="center">
+<img src="./img/readme/stores.jpg" />
+</p>
 
 ## Предобработка рядов
   - новые признаки созданные из столбца "Date" - день, неделя, месяц, год, день года
