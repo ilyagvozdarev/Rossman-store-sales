@@ -74,6 +74,7 @@
 <p align="center">
 <img src="./img/readme/seasonalplot.jpg" />
 </p>
+  
 </details>
 <details><summary>Функция автокорреляции (ACF) и функция частичной автокорреляции (PACF)</summary>
 <br>
@@ -82,14 +83,27 @@
 </p>
 </details>
 
+<details><summary>Сезонная декомпозиция (STL-декомпозиция) использующая скользящее среднее</summary>
+<br>
+<p align="center">
+<img src="./img/readme/seasonal_decompose.jpg" />
+</p>
+</details>
 
-- Сезонная декомпозиция (STL-декомпозиция) использующая скользящее среднее
-- Периодограмма
-- Периодограмма для десезонированного (убраны сезоны за 2 недели и месяц)
-- График запаздывания для 30 лагов для десезонированного (убраны сезоны за 2 недели и месяц)
+<details><summary>Периодограмма</summary>
+<br>
+<p align="center">
+<img src="./img/readme/periodogram.jpg" />
+</p>
+Тажке анализируется периодограмма для десезонированного ряда (убраны сезоны за 2 недели и месяц)
+</details>
 
-
-
+<details><summary>График запаздывания для 30 лагов для десезонированного ряда (убраны сезоны за 2 недели и месяц)</summary>
+<br>
+<p align="center">
+<img src="./img/readme/plotlags.jpg" />
+</p>
+</details>
 
 
 
