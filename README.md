@@ -75,7 +75,6 @@
 <img src="./img/readme/seasonalplot.jpg" />
 </p>
 </details>
-
 <details><summary>Функция автокорреляции (ACF) и функция частичной автокорреляции (PACF)</summary>
 <br>
 <p align="center">
