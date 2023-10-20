@@ -70,6 +70,7 @@
 <br>  
 (сезоны - неделя, месяц, год)
 <br>
+<br>
 <p align="center">
 <img src="./img/readme/seasonalplot.jpg" />
 </p>
