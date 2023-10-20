@@ -75,10 +75,11 @@
 
 ### Сезонные графики 
 (сезоны - неделя, месяц, год)
-
+<details><summary>CLICK ME</summary>
 <p align="center">
 <img src="./img/readme/seasonalplot.jpg" />
 </p>
+</details>
 
 
 
