@@ -1,6 +1,6 @@
 # Rossmann Store Sales
 
-Решение задачи [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data)
+Решение задачи [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data).
 
 Необходимо спрогнозировать ежедневные продажи на срок до шести недель.<br> 
 Продажи в магазине зависят от многих факторов, включая рекламные акции, конкуренцию, школьные и государственные праздники, сезонность и местоположение.
