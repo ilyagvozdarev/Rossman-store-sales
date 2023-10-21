@@ -59,7 +59,7 @@
 ## Предобработка рядов
   - новые признаки, созданные из столбца 'Date' - день, неделя, месяц, год, день года
   - удаление сильно отличающихся частей рядов (в том числе с разрывом)
-  - определение выбросов методом модфицицированного z-score и замена их на предсказания xgboost (метрика - [RMSPE](https://help.pecan.ai/en/articles/6456388-model-performance-metrics-for-regression-models#Modelperformancemetricsforregressionmodels-RootMeanSquaredPercentageError(RMSPE)))
+  - определение у рядов точек-выбросов методом модфицицированного z-score и замена их на предсказания xgboost (метрика - [RMSPE](https://help.pecan.ai/en/articles/6456388-model-performance-metrics-for-regression-models#Modelperformancemetricsforregressionmodels-RootMeanSquaredPercentageError(RMSPE)))
   - заполнение дней, когда магазин закрыт, медианой соседних значений (только для модели линейной регрессии)<br><br>
 
 
