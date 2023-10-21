@@ -144,11 +144,10 @@ e[t] - остаток (Y[t] - T[t] - S[t]) (4-й график)<br>
 Используется при предобработке рядов для замены выбросов (определенных методом модфицицированного z-score) на предсказания в этих точках.<br>
 
 Признаки модели:
-  - столбцы 'Store', 'Date', 'DayOfWeek', 'Open', 'Promo', 'SchoolHoliday', 'StateHoliday' из тренировочного набора
+  - столбцы 'Store', 'Date', 'DayOfWeek', 'Open', 'Promo', 'SchoolHoliday', 'StateHoliday'
   - среднее число продаж за день, среднее число посетителей за день, среднее число продаж на 1 посетителя за день
   - номер дня, недели, месяца, года, дня года
-  - столбцы 'StoreType', 'Assortment', 'CompetitionDistance', 'CompetitionOpenInt' (эпохальное время открытия ближайшего конкурента), 
-    'PromoInterval' из данных для магазинов
+  - столбцы 'StoreType', 'Assortment', 'CompetitionDistance', 'CompetitionOpenInt' (эпохальное время открытия ближайшего конкурента), 'PromoInterval'
 
 
 
