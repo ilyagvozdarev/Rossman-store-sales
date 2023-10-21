@@ -132,7 +132,6 @@ e[t] - остаток (Y[t] - T[t] - S[t]) (4-й график)<br>
 <img src="./img/readme/plotlags.jpg" />
 </p>
 </details>
-
 <br>
 
 ## Модели
