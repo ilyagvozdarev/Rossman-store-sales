@@ -70,6 +70,8 @@
 <br>  
 (сезоны - неделя, месяц, год)
 <br>
+[Сезонный график (Seasonal plot)](https://otexts.com/fpp3/seasonal-plots.html) отображает сегменты временного ряда, каждый из которых соответствует периоду (сезону).<br>
+https://otexts.com/fpp3/seasonal-plots.html
 <br>
 <p align="center">
 <img src="./img/readme/seasonalplot.jpg" />
