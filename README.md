@@ -134,6 +134,13 @@ e[t] - остаток (Y[t] - T[t] - S[t]) (4-й график)<br>
 
 ## Модели
 
+В предобработке рядов для замены выбросов (определенных методом модфицицированного z-score) на предсказания в этих точках использовалась модель XGBoost.
+<br>
+Признаки модели:
+  - столбцы 'Store', 'Date', 'DayOfWeek', 'Open', 'Promo', 'SchoolHoliday', 'StateHoliday'
+  - номер дня, недели, месяца, года, дня года
+  - столбцы 'StoreType', 'Assortment', 'CompetitionDistance', 'CompetitionOpenInt' (эпохальное время открытия ближайшего конкурента), 'PromoInterval'
+<br>
 Для прогноза продаж использовались два подхода: с использованием моделей XGBoost и LinearRegression.
 
 ### XGBoost
@@ -171,14 +178,6 @@ e[t] - остаток (Y[t] - T[t] - S[t]) (4-й график)<br>
 
 
 
-### XGBoost
-
-Используется при предобработке рядов для замены выбросов (определенных методом модфицицированного z-score) на предсказания в этих точках.<br>
-
-Признаки модели:
-  - столбцы 'Store', 'Date', 'DayOfWeek', 'Open', 'Promo', 'SchoolHoliday', 'StateHoliday'
-  - номер дня, недели, месяца, года, дня года
-  - столбцы 'StoreType', 'Assortment', 'CompetitionDistance', 'CompetitionOpenInt' (эпохальное время открытия ближайшего конкурента), 'PromoInterval'
 
 
     
