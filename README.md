@@ -141,7 +141,7 @@ e[t] - остаток (Y[t] - T[t] - S[t]) (4-й график)<br>
   - номер дня, недели, месяца, года, дня года
   - столбцы 'StoreType', 'Assortment', 'CompetitionDistance', 'CompetitionOpenInt' (эпохальное время открытия ближайшего конкурента), 'PromoInterval'
 <br>
-Для прогноза продаж использовались два подхода: с использованием моделей XGBoost и LinearRegression:
+Для прогноза продаж использовались два подхода - с использованием моделей XGBoost и LinearRegression:
 
 ### XGBoost
 
